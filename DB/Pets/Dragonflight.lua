@@ -48,7 +48,7 @@ local dragonflightPets = {
 		spellId = 375085,
 		chance = 20,
 		creatureId = 189118,
-		coords = { { m = CONSTANTS.UIMAPIDS.THE_FORBIDDEN_REACH, x = 43.6, y = 61.0 }}
+		coords = { { m = CONSTANTS.UIMAPIDS.THE_FORBIDDEN_REACH, x = 43.6, y = 61.0, L["Bonesifter Marwak"] } }
 	}
 }
 
