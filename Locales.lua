@@ -1884,6 +1884,7 @@ L["Expedition Scout's Pack"] = true
 L["Ohuna Companion"] = true
 L["Bakar Companion"] = true
 L["Ashenwing"] = true
+L["Bonesifter Marwak"] = true
 
 --[[
 					The rest of this file is auto-generated using the WoWAce localization application.
