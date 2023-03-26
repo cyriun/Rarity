@@ -1883,6 +1883,7 @@ L["This mount can only drop after hitting renown 25 with Dragonscale Expedition.
 L["Expedition Scout's Pack"] = true
 L["Ohuna Companion"] = true
 L["Bakar Companion"] = true
+L["Ashenwing"] = true
 
 --[[
 					The rest of this file is auto-generated using the WoWAce localization application.
