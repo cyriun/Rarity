@@ -418,7 +418,7 @@ local shadowlandsMounts = {
 		itemId = 186638,
 		npcs = { 180863 },
 		chance = 50,
-		groupSize = 5,
+		groupSize = 5, --while technically soloable in patch 10.0.7, the last boss took 45mins on mythic
 		equalOdds = true,
 		statisticId = { 15168 },
 		instanceDifficulties = { [CONSTANTS.INSTANCE_DIFFICULTIES.MYTHIC_DUNGEON] = true },
