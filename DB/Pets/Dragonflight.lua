@@ -50,8 +50,8 @@ local dragonflightPets = {
 		creatureId = 189118,
 		groupSize = 5,
 		equalOdds = true,
-		coords = { { m = CONSTANTS.UIMAPIDS.THE_FORBIDDEN_REACH, x = 43.6, y = 61.0, L["Bonesifter Marwak"] } }
-	}
+		coords = { { m = CONSTANTS.UIMAPIDS.THE_FORBIDDEN_REACH, x = 43.6, y = 61.0, L["Bonesifter Marwak"] } },
+	},
 }
 
 Rarity.ItemDB.MergeItems(Rarity.ItemDB.pets, dragonflightPets)
